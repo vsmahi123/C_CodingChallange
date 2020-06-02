@@ -1,0 +1,8 @@
+a.out : main.o LinkListApi.o
+	gcc main.o LinkListApi.o
+main.o : main.c
+	gcc -c main.c
+LinkListApi.o : LinkListApi.c
+	gcc -c LinkListApi.c
+
+

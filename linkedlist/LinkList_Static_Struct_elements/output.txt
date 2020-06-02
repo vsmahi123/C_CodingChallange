@@ -1,0 +1,81 @@
+enter 1 to add entry at end 
+2 to display all
+3 to display by index
+4 add entry at start
+5 add node to middle 
+6 delete from end
+7 delete from start
+8 delete from middle
+1 entered
+
+-----------in add to end-----------
+
+----------------- Creating a node -----------
+enter roll:
+enter name:
+enter result:
+list is null
+ adding new node
+enter 1 to add entry at end 
+2 to display all
+3 to display by index
+4 add entry at start
+5 add node to middle 
+6 delete from end
+7 delete from start
+8 delete from middle
+1 entered
+
+-----------in add to end-----------
+
+----------------- Creating a node -----------
+enter roll:
+enter name:
+enter result:
+enter 1 to add entry at end 
+2 to display all
+3 to display by index
+4 add entry at start
+5 add node to middle 
+6 delete from end
+7 delete from start
+8 delete from middle
+
+*************************
+-----------number of entries[ 2 ]------------
+roll : 101	name:  venkresult : pass
+roll : 102	name:  jukresult : failed
+
+**************************
+enter 1 to add entry at end 
+2 to display all
+3 to display by index
+4 add entry at start
+5 add node to middle 
+6 delete from end
+7 delete from start
+8 delete from middle
+
+-----------in delete from middle-----------
+enter 1 to add entry at end 
+2 to display all
+3 to display by index
+4 add entry at start
+5 add node to middle 
+6 delete from end
+7 delete from start
+8 delete from middle
+
+*************************
+-----------number of entries[ 1 ]------------
+roll : 0	name:  venkroll : 102	name:  jukresult : failed
+
+**************************
+enter 1 to add entry at end 
+2 to display all
+3 to display by index
+4 add entry at start
+5 add node to middle 
+6 delete from end
+7 delete from start
+8 delete from middle
