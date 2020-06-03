@@ -1,5 +1,7 @@
+
 #include<stdio.h>
 #include<stdlib.h>
+/*My changes Here*/
 #define msg(x) printf("%s : ",x)
 int main()
 {
@@ -13,7 +15,7 @@ int main()
 	scanf("%s",sub);
 	while(ipStr[i]!= '\0' && i<101)
 	{
-		if(ipStr[i] == sub[0] && ipStr[i+1] == sub[1])
+		if((ipStr[i] == sub[0] || ipStr[i] == sub[0]-32 || ipStr[i] == sub[0]+32) && (ipStr[i+1] == sub[1] || ipStr[i+1] == sub[1]+32 || ipStr[i+1] == sub[1]-32))
 		{
 			if(i== 0 || ipStr[i-1] == ' ')
 			{
